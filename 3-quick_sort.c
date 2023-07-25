@@ -20,7 +20,7 @@ void quick_sort(int *array, size_t size)
  * @array: array to be sorted
  * @low: the low index
  * @high: the high index
- * @s: amount of elements
+ * @size: amount of elements
  */
 void recursive(int *array, int low, int high, size_t size)
 {
